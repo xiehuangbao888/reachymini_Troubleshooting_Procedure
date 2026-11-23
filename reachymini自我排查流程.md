@@ -11,7 +11,9 @@ app版本在进入应用时会有提示进行更新，机器人固件在进入ap
 首先需要关掉app应用，防止app程序占用摄像头，而后ssh进入reachymini，再终端上输入reachyminios_check进行自检查看摄像头的日志输出是否正常
 
 有线版：
-用usb线将reachymini与电脑连接，此时需要关掉app应用，防止app程序占用摄像头，windows设置里面搜索摄像头看是否有reachymini的画面
+用usb线将reachymini与电脑连接，此时需要关掉app应用，防止app程序占用摄像头，windows设置里面搜索相机看是否有reachymini的画面
+![alt text](wRnWR1WJfo.png)
+![alt text](uFalmPlq0h.png)
 
 4.完成以上排查后仍然不行则将1,2,3步骤截图，以及将机器人底部的SN码提供给技术人员进行补发
 
@@ -32,6 +34,10 @@ app版本在进入应用时会有提示进行更新，机器人固件在进入ap
 无线版：
 首先需要关掉app应用，防止app程序占用摄像头，而后ssh进入reachymini，再终端上输入reachyminios_check进行自检查看麦克风的日志输出是否正常
 
+有线版：
+用usb线将reachymini与电脑连接，此时需要关掉app应用，防止app程序占用麦克风，windows设置里面搜索麦克风看是否有reachymini的画面
+![alt text](zeUehMem5g.png)
+![alt text](52dhvOV0Ps.png)
 
 4.完成以上排查后仍然不行则将1,2,3步骤截图，以及将机器人底部的SN码提供给技术人员进行补发
 
